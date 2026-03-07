@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-02)
+## Unreleased (2026-03-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8603b4d`](https://github.com/stdlib-js/stdlib/commit/8603b4d195733f8d626ca6b334eeb708b159ba69) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsnansumpw` [(#10749)](https://github.com/stdlib-js/stdlib/pull/10749) _(by Prajjwal Bajpai)_
 -   [`6080e64`](https://github.com/stdlib-js/stdlib/commit/6080e640d14b68905c598330ebcb6bb8e415ddd0) - **style:** remove whitespace inside `API_SUFFIX` macro calls _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Prajjwal Bajpai
 
 </section>
 
